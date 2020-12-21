@@ -1,2 +1,3 @@
 # Comp2000
-A repository to store all the contents of the Comp2000 assignment.
+
+A repository for work done in the COMP2000 module, second year cyber security.
